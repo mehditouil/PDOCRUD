@@ -1,0 +1,6 @@
+<div class="container">
+
+</div>
+<script src="bootstrap/js/bootstrap.min.js"></script>
+</body>
+</html>
